@@ -22,7 +22,11 @@ $ conda install opencv-python
 
 * Linux
   
-  Go inside th project, open a terminal and type
+  Download it
+  ```
+  $ git clone https://github.com/Tim-HW/Singing-Flowers.git
+  ```
+  Go inside th project
   ```
   $ ./bash.sh
   ```
