@@ -6,6 +6,9 @@ This work aims to facilitate the perception of a discreet but extremely touching
 The plants will be present in the exhibition alongside the video of their performance. Sheet music is available so that anyone can play the composition made by the plants.
 More information on [website](https://seraphimsoupizet.art/murailles/) of the author.
 
+![Screenshot of the representation](https://github.com/Tim-HW/Singing-Flowers/blob/main/images/img.png)
+
+
 ## Installation
 
 Install OpenCV for python first
